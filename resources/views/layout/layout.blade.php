@@ -69,7 +69,7 @@
             </li>
 
             <li class="nav-item">
-              <a href="{{ route('File.addFile')}}" class="nav-link">
+              <a href="{{ route('File.viewFile')}}" class="nav-link">
                 <i class="nav-icon fas fa-tachometer-alt"></i>
                 <p>
                   Files
